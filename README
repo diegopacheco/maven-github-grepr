@@ -1,4 +1,12 @@
 This project has a simply and small goal. 
-<BR>
-The idea is you can assemble dependencies from maven project while<BR>
-their are on github and don't have maven repositories.
+
+The idea is you can assemble dependencies from maven project while
+their are on github and don't have maven repositories. If you are looking for a plugin to deploy
+maven projects on github you may want take a look at kevinpollet 
+maven-github-plugin(https://github.com/kevinpollet/maven-github-plugin).
+
+So the plugin will download the sources for you and compile and build it. Simple and easy, no need to
+have a github account, just put the git url and have fun.
+
+Cheers,
+Diego Pacheco
