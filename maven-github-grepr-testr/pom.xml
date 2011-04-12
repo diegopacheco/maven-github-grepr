@@ -14,7 +14,9 @@
 				<groupId>com.github.diegopacheco</groupId>
 				<artifactId>maven-github-grepr</artifactId>
 				<version>1.0-SNAPSHOT</version>
-				<configuration></configuration>
+				<configuration>
+					<githubUrl>git://github.com/phunt/avro-maven-plugin.git</githubUrl>
+				</configuration>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
