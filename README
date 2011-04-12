@@ -1,3 +1,6 @@
+STATUS: initial development and test phase, nothing concrete yet.
+UPDATE: 12/04/2011 around 08:03 
+
 This project has a simply and small goal. 
 
 The idea is you can assemble dependencies from maven project while
@@ -10,3 +13,5 @@ have a github account, just put the git url and have fun.
 
 Cheers,
 Diego Pacheco
+twitter: @diego_pacheco
+blog   : http://diego=pacheco.blogspot.com
