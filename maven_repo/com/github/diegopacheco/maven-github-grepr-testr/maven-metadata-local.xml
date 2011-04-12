@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.diegopacheco</groupId>
+  <artifactId>maven-github-grepr-testr</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110412105159</lastUpdated>
+  </versioning>
+</metadata>
